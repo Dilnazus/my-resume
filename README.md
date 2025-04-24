@@ -20,7 +20,6 @@
 
 ### Представление геймдев-проекта
 ![Презентация с артом](https://github.com/Dilnazus/my-resume/blob/main/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20WhatsApp%202025-04-25%20%D0%B2%2004.18.18_f9dd93ce.jpg?raw=true)
-
 ### Арт к игре
 ![Арт к игре](https://github.com/Dilnazus/my-resume/blob/main/%D0%B0%D0%BC%D0%BE%D0%B3%D1%83%D1%81.png?raw=true)
 
