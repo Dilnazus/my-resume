@@ -25,7 +25,7 @@
 ![Арт к игре]("C:\Users\highm\Downloads\Telegram Desktop\амогус.png")
 
 ### Недавний арт
-![Свежий арт]("C:\Users\highm\OneDrive\Desktop\нови арт.png")
+![Свежий арт](https://github.com/Dilnazus/my-resume/blob/main/%D0%BD%D0%BE%D0%B2%D0%B8%20%D0%B0%D1%80%D1%82.png?raw=true)
 
 
 ## Контакты
