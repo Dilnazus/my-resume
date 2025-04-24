@@ -19,7 +19,7 @@
 ## Примеры моих работ
 
 ### Представление геймдев-проекта
-![Презентация с артом](Изображение WhatsApp 2025-04-25 в 04.18.18_f9dd93ce.jpg)
+![Презентация с артом](https://github.com/Dilnazus/my-resume/blob/main/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20WhatsApp%202025-04-25%20%D0%B2%2004.18.18_f9dd93ce.jpg?raw=true)
 
 ### Арт к игре
 ![Арт к игре]("C:\Users\highm\Downloads\Telegram Desktop\амогус.png")
